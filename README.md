@@ -4,12 +4,10 @@
 
 热爱前端、热爱技术。尚未毕业。喜欢参与一些开源项目的讨论。
 
-### **社交主页：**
+### **毕设内容：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+基于JavaScript和GEE平台的海岸线信息提取方法。
 
-
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：毕设内容：基于JavaScript和GEE平台的海岸线信息提取方法。
 ### **技术栈:**
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
